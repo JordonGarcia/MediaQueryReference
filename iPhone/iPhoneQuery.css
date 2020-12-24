@@ -1,0 +1,335 @@
+/* iPhone 4 (Both portrait and landscape modes) */
+@media only screen 
+and (min-device-width: 320px) 
+and (max-device-width: 480px) 
+and (-webkit-device-pixel-ratio: 2) 
+and (device-aspect-ratio: 2/3) {}
+
+
+/* iPhone 4 (Portrait mode only) */
+@media only screen 
+and (min-device-width: 320px) 
+and (max-device-width: 480px) 
+and (-webkit-device-pixel-ratio: 2) 
+and (device-aspect-ratio: 2/3) 
+and (orientation:portrait) {}
+
+ 
+/* iPhone 4 (Landscape mode only) */
+@media only screen 
+and (min-device-width: 320px) 
+and (max-device-width: 480px) 
+and (-webkit-device-pixel-ratio: 2) 
+and (device-aspect-ratio: 2/3) 
+and (orientation:landscape) {}
+
+
+/* iPhone 5 (Both portrait and landscape modes) */
+@media only screen 
+and (min-device-width: 320px) 
+and (max-device-width: 568px) 
+and (-webkit-device-pixel-ratio: 2) 
+and (device-aspect-ratio: 40/71) {}
+
+
+/* iPhone 5 (Portrait mode only) */
+@media only screen
+and (min-device-width: 320px) 
+and (max-device-width: 568px) 
+and (-webkit-device-pixel-ratio: 2) 
+and (device-aspect-ratio: 40/71) 
+and (orientation:portrait) {}
+
+
+/* iPhone 5 (Landscape mode only) */
+@media only screen 
+and (min-device-width: 320px) 
+and (max-device-width: 568px) 
+and (-webkit-device-pixel-ratio: 2) 
+and (device-aspect-ratio: 40/71)
+and (orientation:landscape) {}
+
+
+/* iPhone 6 (Both portrait and landscape modes) */
+@media only screen 
+and (min-device-width: 375px)
+and (max-device-width: 667px) 
+and (device-aspect-ratio: 375/667) 
+and (aspect-ratio: 667/375) 
+and (-webkit-device-pixel-ratio: 2) 
+and (-webkit-min-device-pixel-ratio: 2) {}
+
+
+/* iPhone 6 (Portrait mode only) */
+@media only screen 
+and (min-device-width: 375px) 
+and (max-device-width: 667px) 
+and (orientation: portrait) 
+and (device-aspect-ratio: 375/667) 
+and (aspect-ratio: 375/559) 
+and (-webkit-device-pixel-ratio: 2) 
+and (-webkit-min-device-pixel-ratio: 2) {}
+
+
+/* iPhone 6 (Landscape mode only) */
+@media only screen 
+and (min-device-width: 375px) 
+and (max-device-width: 667px) 
+and (orientation: landscape) 
+and (device-aspect-ratio: 375/667) 
+and (aspect-ratio: 667/375) 
+and (-webkit-device-pixel-ratio: 2) 
+and (-webkit-min-device-pixel-ratio: 2) {}
+
+
+/* iPhone 6+ 7+ 8+ [Plus] (Both portrait and landscape modes) */
+@media only screen 
+and (min-device-width: 414px) 
+and (max-device-width: 736px) 
+and (-webkit-min-device-pixel-ratio: 3) {}
+
+
+/* iPhone 6+ 7+ 8+ [Plus] (Portrait mode only) */
+@media only screen 
+and (min-device-width: 414px) 
+and (max-device-width: 736px) 
+and (orientation: portrait) 
+and (-webkit-min-device-pixel-ratio: 3) {}
+
+
+/* iPhone 6+ 7+ 8+ [Plus] (Landscape mode only) */
+@media only screen 
+and (min-device-width: 414px) 
+and (max-device-width: 736px) 
+and (orientation: landscape) 
+and (-webkit-min-device-pixel-ratio: 3) {}
+
+
+/* iPhone 7 (Both portrait and landscape modes) */
+@media only screen 
+and (min-device-width: 375px) 
+and (max-device-width: 667px) 
+and (-webkit-min-device-pixel-ratio: 3) {}
+
+
+/* iPhone 7 (Portrait mode only) */
+@media only screen 
+and (min-device-width: 414px) 
+and (max-device-width: 736px) 
+and (-webkit-min-device-pixel-ratio: 3) 
+and (orientation: portrait) {}
+
+
+/* iPhone 7 (Landscape mode only) */
+@media only screen 
+and (min-device-width: 414px) 
+and (max-device-width: 736px)
+and (-webkit-min-device-pixel-ratio: 3) 
+and (orientation: landscape) {}
+
+
+/* iPhone X and XS (Both portrait and landscape modes) */
+@media only screen 
+and (min-device-width: 375px) 
+and (max-device-width: 812px) 
+and (-webkit-min-device-pixel-ratio: 3) {}
+
+
+/* iPhone X and XS (Portrait mode only) */
+@media only screen 
+and (min-device-width: 375px) 
+and (max-device-width: 812px) 
+and (-webkit-min-device-pixel-ratio: 3) 
+and (orientation: portrait) {}
+
+
+/* iPhone X and XS (Landscape mode only) */
+@media only screen 
+and (min-device-width: 375px) 
+and (max-device-width: 812px) 
+and (-webkit-min-device-pixel-ratio: 3) 
+and (orientation: landscape) {}
+
+
+/* iPhone XS Max (Both portrait and landscape modes) */
+@media only screen 
+and (device-width: 414px) 
+and (device-height: 896px) 
+and (-webkit-device-pixel-ratio: 3) {}
+
+
+/* iPhone XS Max (Portrait mode only) */
+@media only screen 
+and (device-width: 414px) 
+and (device-height: 896px) 
+and (-webkit-device-pixel-ratio: 3) 
+and (orientation: portrait) {}
+
+
+/* iPhone XS Max (Landscape mode only) */
+@media only screen 
+and (device-width: 414px) 
+and (device-height: 896px) 
+and (-webkit-device-pixel-ratio: 3) 
+and (orientation: landscape) {}
+
+
+/* iPhone XR (Both portrait and landscape modes) */
+@media only screen 
+and (device-width: 414px) 
+and (device-height: 896px) 
+and (-webkit-device-pixel-ratio: 2) {}
+
+
+/* iPhone XR (Portrait mode only) */
+@media only screen 
+and (device-width: 414px) 
+and (device-height: 896px) 
+and (-webkit-device-pixel-ratio: 2)
+and (orientation: portrait) {}
+
+
+/* iPhone XR (Landscape mode only) */
+@media only screen 
+and (device-width: 414px) 
+and (device-height: 896px) 
+and (-webkit-device-pixel-ratio: 2) 
+and (orientation: landscape) {}
+
+
+/* iPhone 11 (Both portrait and landscape modes) */
+@media only screen
+and (device-width: 414px) 
+and (device-height: 896px) 
+and (-webkit-device-pixel-ratio: 2) {}
+
+
+/* iPhone 11 (Portrait mode only) */
+@media only screen 
+and (device-width: 414px) 
+and (device-height: 896px) 
+and (-webkit-device-pixel-ratio: 2) 
+and (orientation: portrait) {}
+
+
+/* iPhone 11 (Landscape mode only) */
+@media only screen 
+and (device-width: 414px) 
+and (device-height: 896px) 
+and (-webkit-device-pixel-ratio: 2) 
+and (orientation: landscape) {}
+
+
+/* iPhone 11 Pro (Both portrait and landscape modes) */
+@media only screen 
+and (device-width: 375px) 
+and (device-height: 812px) 
+and (-webkit-device-pixel-ratio: 3) {}
+
+
+/* iPhone 11 Pro (Portrait mode only) */
+@media only screen 
+and (device-width: 375px) 
+and (device-height: 812px) 
+and (-webkit-device-pixel-ratio: 3) 
+and (orientation: portrait) {}
+
+
+/* iPhone 11 Pro (Landscape mode only) */
+@media only screen 
+and (device-width: 375px) 
+and (device-height: 812px)
+and (-webkit-device-pixel-ratio: 3) 
+and (orientation: landscape) {}
+
+
+/* iPhone 11 Pro Max (Both portrait and landscape modes) */
+@media only screen 
+and (device-width: 414px)
+and (device-height: 896px) 
+and (-webkit-device-pixel-ratio: 3) {}
+
+
+/* iPhone 11 Pro Max (Portrait mode only) */
+@media only screen 
+and (device-width: 414px) 
+and (device-height: 896px) 
+and (-webkit-device-pixel-ratio: 3) 
+and (orientation: portrait) {}
+
+
+/* iPhone 11 Pro Max (Landscape mode only) */
+@media only screen 
+and (device-width: 414px) 
+and (device-height: 896px) 
+and (-webkit-device-pixel-ratio: 3) 
+and (orientation: landscape) {}
+
+
+/* iPhone 12 Mini (Both portrait and landscape modes) */
+@media only screen 
+and (device-width: 375px) 
+and (device-height: 812px) 
+and (-webkit-device-pixel-ratio: 3) {}
+
+
+/* iPhone 12 Mini (Portrait mode only) */
+@media only screen 
+and (device-width: 375px) 
+and (device-height: 812px) 
+and (-webkit-device-pixel-ratio: 3)
+and (orientation: portrait) {}
+
+
+/* iPhone 12 Mini (Landscape mode only) */
+@media only screen 
+and (device-width: 375px) 
+and (device-height: 812px) 
+and (-webkit-device-pixel-ratio: 3) 
+and (orientation: landscape) {}
+
+
+/* iPhone 12 and 12 Pro (Both portrait and landscape modes) */
+@media only screen 
+and (device-width: 390px) 
+and (device-height: 844px) 
+and (-webkit-device-pixel-ratio: 3) {}
+
+
+/* iPhone 12 and 12 Pro (Portrait mode only) */
+@media only screen 
+and (device-width: 390px) 
+and (device-height: 844px) 
+and (-webkit-device-pixel-ratio: 3) 
+and (orientation: portrait) {}
+
+
+/* iPhone 12 and 12 Pro (Landscape mode only) */
+@media only screen 
+and (device-width: 390px) 
+and (device-height: 844px) 
+and (-webkit-device-pixel-ratio: 3) 
+and (orientation: landscape) {}
+
+
+/* iPhone 12 Pro Max (Both portrait and landscape modes) */
+@media only screen 
+and (device-width: 428px) 
+and (device-height: 926px) 
+and (-webkit-device-pixel-ratio: 3) {}
+
+
+/* iPhone 12 Pro Max (Portrait mode only) */
+@media only screen 
+and (device-width: 428px) 
+and (device-height: 926px) 
+and (-webkit-device-pixel-ratio: 3) 
+and (orientation: portrait) {}
+
+
+/* iPhone 12 Pro Max (Landscape mode only) */
+@media only screen 
+and (device-width: 428px) 
+and (device-height: 926px) 
+and (-webkit-device-pixel-ratio: 3) 
+and (orientation: landscape) {}
