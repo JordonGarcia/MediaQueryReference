@@ -1,0 +1,44 @@
+/* iPad mini 2, iPad mini 3, iPad mini 4, iPad 3, iPad 4, iPad Air and iPad Air 2 (Both portrait and landscape modes) */
+@media only screen 
+ and (min-device-width: 768px) 
+ and (max-device-width: 1024px) 
+ and (-webkit-min-device-pixel-ratio: 2) {}
+
+
+/* iPad mini 2, iPad mini 3, iPad mini 4, iPad 3, iPad 4, iPad Air and iPad Air 2 (Portrait mode only) */
+@media only screen 
+ and (min-device-width: 768px) 
+ and (max-device-width: 1024px) 
+ and (-webkit-min-device-pixel-ratio: 2)
+ and (orientation: portrait) {}
+
+
+/* iPad mini 2, iPad mini 3, iPad mini 4, iPad 3, iPad 4, iPad Air and iPad Air 2 (Landscape mode only) */
+@media only screen 
+ and (min-device-width: 768px) 
+ and (max-device-width: 1024px) 
+ and (-webkit-min-device-pixel-ratio: 2)
+ and (orientation: landscape) {}
+
+
+/* iPad Pro (Both portrait and landscape modes) */
+@media only screen 
+ and (min-device-width: 1024px) 
+ and (max-device-width: 1366px) 
+ and (-webkit-min-device-pixel-ratio: 2) {}
+
+
+  /* iPad Pro (Portrait mode only) */
+@media only screen 
+ and (min-device-width: 1024px) 
+ and (max-device-width: 1366px)
+ and (-webkit-min-device-pixel-ratio: 2)
+ and (orientation: portrait) {}
+
+
+ /* iPad Pro (Landscape mode only) */
+@media only screen 
+ and (min-device-width: 1024px) 
+ and (max-device-width: 1366px)
+ and (-webkit-min-device-pixel-ratio: 2)
+ and (orientation: landscape) {}
